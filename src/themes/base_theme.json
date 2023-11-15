@@ -1,0 +1,22 @@
+{
+    "name": "Theme",
+    "foreground": "#F3F3F7",
+    "foreground_darker": "#D2D2E2",
+    "background": "#2F2F37",
+    "background_darker": "#26262C",
+    "accent_primary": "#A967CE",
+    "accent_hover": "#B490E0",
+    "accent_secondary": "#7A6ADD",
+    "accent_tertiary": "#D66FAD",
+    "light_one": "#ADB2C2",
+    "light_two": "#9090A0",
+    "primary_one": "#CF81D9",
+    "primary_two": "#B490E0",
+    "secondary_one": "#BBBBFF",
+    "secondary_two": "#A0D0F0",
+    "tertiary_one": "#B0E0FF",
+    "tertiary_two": "#B0D0FF",
+    "issue": "#FF7878",
+    "warning": "#FFA878",
+    "okay": "#78FFA8"
+}

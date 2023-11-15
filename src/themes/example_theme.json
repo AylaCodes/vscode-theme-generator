@@ -1,0 +1,22 @@
+{
+    "name": "GoldenPear",
+    "foreground": "#F3F3F7",
+    "foreground_darker": "#D2D2E2",
+    "background": "#2F2F37",
+    "background_darker": "#26262C",
+    "accent_primary": "#C0FCCE",
+    "accent_hover": "#E3FFE9",
+    "accent_secondary": "#A5F9D9",
+    "accent_tertiary": "#FFFFA9",
+    "light_one": "#ADB2C2",
+    "light_two": "#9090A0",
+    "primary_one": "#C0FCCE",
+    "primary_two": "#95FAAF",
+    "secondary_one": "#A5F9D9",
+    "secondary_two": "#A4F5FC",
+    "tertiary_one": "#FFFFA9",
+    "tertiary_two": "#C6F562",
+    "issue": "#EBA7A8",
+    "warning": "#EEDD47",
+    "okay": "#95FAAF"
+}

@@ -1,0 +1,4 @@
+.vscodeignore
+TODO.md
+output.json
+*.pyc

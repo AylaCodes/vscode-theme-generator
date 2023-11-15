@@ -2,3 +2,4 @@
 TODO.md
 output.json
 *.pyc
+.ruff_cache

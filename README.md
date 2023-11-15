@@ -25,5 +25,6 @@ Once installed, you can select your color theme as you would any other, and you 
 continue following the official guides to create a package and publish your theme on the
 marketplace.
 
-## Example
-(Coming soon)
+## Examples
+![](https://i.imgur.com/Y3T9k1x.png)
+![](https://i.imgur.com/oTChyyW.png)
